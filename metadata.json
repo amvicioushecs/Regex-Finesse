@@ -1,0 +1,6 @@
+{
+  "name": "Regex Finesse",
+  "description": "Generate, explain, and live-test regular expressions in plain English with Grok & Gemini, featuring a rich regex documentation template database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
